@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Zestaw testowy shop</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c9b0b21c-fa60-4b5a-a156-dcbb1e78124d</testSuiteGuid>
+   <testCaseLink>
+      <guid>585234e0-1415-4c4a-9ec0-246d1259b6e2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/shop/Testowanie formularza</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>92397327-c7be-4206-b9b7-56549eae8507</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data shop</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>389d644d-127d-495f-b01e-35145512dbbd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92397327-c7be-4206-b9b7-56549eae8507</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>bcd4cc99-e8a6-493d-b4a0-1ce60c1b3361</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92397327-c7be-4206-b9b7-56549eae8507</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>imie</value>
+         <variableId>f5895b5b-f490-43ed-aeee-4c5696d4a8f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92397327-c7be-4206-b9b7-56549eae8507</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nazwisko</value>
+         <variableId>af6b7901-7c1b-4cda-ab6b-d9d51b731705</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92397327-c7be-4206-b9b7-56549eae8507</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>temat</value>
+         <variableId>419cb052-1148-40f3-80d8-6e74280e2fb0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92397327-c7be-4206-b9b7-56549eae8507</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>wiadomosc</value>
+         <variableId>dfd57ee9-0882-4abf-a734-49de53fc2784</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

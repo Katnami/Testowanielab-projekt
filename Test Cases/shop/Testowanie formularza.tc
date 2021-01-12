@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testowanie formularza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c411d4ce-1029-4f00-bb84-7af0e121e4d8</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.akademia-mautic.pl/mautic-przypadki-uzycia/formularz-kontaktowy/'</defaultValue>
+      <description></description>
+      <id>389d644d-127d-495f-b01e-35145512dbbd</id>
+      <masked>false</masked>
+      <name>sitename</name>
+   </variable>
+   <variable>
+      <defaultValue>'aya@wp.pl'</defaultValue>
+      <description></description>
+      <id>bcd4cc99-e8a6-493d-b4a0-1ce60c1b3361</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'anna'</defaultValue>
+      <description></description>
+      <id>f5895b5b-f490-43ed-aeee-4c5696d4a8f5</id>
+      <masked>false</masked>
+      <name>imie</name>
+   </variable>
+   <variable>
+      <defaultValue>'abazur'</defaultValue>
+      <description></description>
+      <id>af6b7901-7c1b-4cda-ab6b-d9d51b731705</id>
+      <masked>false</masked>
+      <name>nazwisko</name>
+   </variable>
+   <variable>
+      <defaultValue>'temat'</defaultValue>
+      <description></description>
+      <id>419cb052-1148-40f3-80d8-6e74280e2fb0</id>
+      <masked>false</masked>
+      <name>temat</name>
+   </variable>
+   <variable>
+      <defaultValue>'wiadomosc'</defaultValue>
+      <description></description>
+      <id>dfd57ee9-0882-4abf-a734-49de53fc2784</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

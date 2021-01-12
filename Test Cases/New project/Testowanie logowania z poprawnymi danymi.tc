@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Celem jest przetestowanie funkcjonalności logowania z użyciem stworzonego wcześniej konta użytkownika</description>
+   <name>Testowanie logowania z poprawnymi danymi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>524e79c4-8a3e-4375-8fea-e2b913af3373</testCaseGuid>
+   <variable>
+      <defaultValue>'user\r\n'</defaultValue>
+      <description></description>
+      <id>75e6f6f4-3cf0-4c97-adfd-5e1b7a9a4457</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'4nvbrPglk7k='</defaultValue>
+      <description></description>
+      <id>38a07759-b0c4-48d5-86c7-555a70e5c2e5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://demo.applitools.com/'</defaultValue>
+      <description></description>
+      <id>f7994ba1-561f-460a-806c-a7b2e0f16061</id>
+      <masked>false</masked>
+      <name>site</name>
+   </variable>
+   <variable>
+      <defaultValue>'account\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>daf04f27-62ce-4a5e-9c65-c5632974478b</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>
